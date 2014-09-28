@@ -8,6 +8,10 @@ quay.io/kelseyhightower/ipxe-builder \
 make bin/undionly.kpxe
 ```
 
+```
+cp /home/core/ipxe-builder/bin/undionly.kpxe /var/lib/tftpboot/
+```
+
 ## Build
 
 ```
